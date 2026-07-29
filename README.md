@@ -2,7 +2,7 @@
 👋 Hi, I’m HeRL1
 
 
-📐Current Projects
+🔻Current Projects🔻
 
 🐬Flipper Zero Tactical Ops Module — firmware + hardware toolkit
 
