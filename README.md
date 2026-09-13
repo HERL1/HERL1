@@ -1,5 +1,6 @@
-👋 Hi, I’m HeRL1 hi 😊
-🔻Current Projects🔻
+👋 Hi, I’m HeRL1 🔻Current Projects🔻
+
+🐬Flipper Zero - Custom animations, profile pics, asset packs 
 
 🔫Laser Tag System 'flipperZero' — IR vests + 3D‑printed blasters
 
