@@ -1,19 +1,9 @@
-### Hi there 👋
-👋 Hi, I’m HeRL1
-
-
+👋 Hi, I’m HeRL1 hi 😊
 🔻Current Projects🔻
-
-🐬Flipper Zero Tactical Ops Module — firmware + hardware toolkit
-
 🔫Laser Tag System 'flipperZero' — IR vests + 3D‑printed blasters
-
 🏎️Rc Drift Car - Tuning, custom tracks, aftermarket mods
-
-📚Birdhouse Books Universe — characters, lore, and art
-
+📚Milky-Way Misfits— A Birdhouse Books comic book universe
 🏍️Pit bike — Custom mods, Tuning, Upgrade
-
-🎼My first album - songwriting, recording 
+🎼Shortcut To Fame - My first album as songwriter and performer  
 
 
